@@ -1,4 +1,4 @@
-# codewars-rating
+# Codewars Rating
 
 [![CodeWars](https://www.codewars.com/users/Alex2012/badges/large)]()
 
